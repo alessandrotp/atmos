@@ -42,7 +42,7 @@ Critical assumptions that impact the results:
 - This last point applies also to the two crackers without known physical links
 - In view of breadth instead of depth and not to go over time, it was assumed a naïve approach that any source can supply its capacity to any cracker
 
-Important negative impact of this assumption:
+Important negative impact of these assumption:
 
 - From the last assumption, this approach is not realistic because there are many shared sources that cannot physically give all their capacity every time.
 - The ports that can provide naphtha are underutilized due to the priority of using the physical link, and the possibility of counting the same source multiple times
