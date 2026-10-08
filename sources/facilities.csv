@@ -1,0 +1,270 @@
+id,name,country_code,latitude,longitude,status,parent_organization_id
+037be004,"Berths 510&511 (Tank Storage Gothenburg, ST1, Inter, ODEC)",SWE,57.6894,11.8778,Active,
+03be3727,Caldic Europoort B.V.,NLD,51.9363,4.1817,Active,
+047888e3,Whitegate Refinery,IRL,51.822,-8.2434,Operational,
+06f2fa25,Petromidia Refinery,ROU,44.3442,28.6528,Operational,org_73bfc2a4
+08ffe6d2,Fredericia Refinery,DNK,55.5919,9.7491,Operational,org_bb060e0e
+0943f240,Lukoil Neftochim Burgas Refinery,BGR,42.5495,27.3442,Operational,org_1db2a8d3
+09ce0874,Chane Botlek Terminal,NLD,51.879,4.3106,Active,
+09f877a8,Barcelona [ES],ESP,41.3428,2.1624,Active,
+0a8165e3,Cressier Refinery,CHE,47.0421,7.0357,Operational,org_d0f056e5
+0ae30682,Api Refinery SBM,ITA,43.7451,13.5214,Active,
+0baa2673,Kalmar [SE],SWE,56.6567,16.3707,Active,
+0c706f61,Gdynia [PL],POL,54.5324,18.5443,Active,
+0da44787,Captain Field [GB],GBR,58.3045,-1.7464,Active,
+0dc94d4c,Preemraff Lysekil Refinery,SWE,58.3467,11.4229,Operational,org_bd6c7fc0
+0e113b75,Milford Haven [GB],GBR,51.6984,-4.9978,Active,
+0edae41d,Porvoo Refinery,FIN,60.3089,25.5239,Operational,
+0f764555,Aspropyrgos [GR],GRC,38.0293,23.5912,Active,
+1288c44b,Taranto Refinery,ITA,40.4895,17.1933,Operational,org_1b84459a
+12d6ed9a,Asfaltos Espanoles (ASESA),ESP,41.096,1.2167,Active,
+141dc4d9,Holborn Refinery,DEU,53.4772,9.9517,Operational,org_10e027c3
+14f4a8c6,Socar Star Refinery,TUR,38.7853,26.9142,Active,
+150747c9,Izmail [UA],ROU,45.3396,28.798,Active,
+156c1fbc,Total Olefins Antwerp (TOA),BEL,51.2598,4.3316,Active,
+159fda82,Bilbao Refinery,ESP,43.3258,-3.105,Operational,org_64e5adde
+15e16c3c,Boehlen Chemical Complex,DEU,51.1889,12.3548,Operational,org_8fdbf09c
+176640e9,Donges Refinery,FRA,47.3115,-2.0623,Operational,
+18962161,Sines Refinery,PRT,37.957,-8.8027,Operational,
+19240ddd,"Wilhelmshaven, NI [DE]",DEU,53.5603,8.1482,Active,
+19564e64,Puertollano Refinery,ESP,38.6739,-4.0542,Operational,
+19f089af,Vlissingen (Flushing) [NL],NLD,51.4559,3.6889,Active,
+1b03b303,Teesport [GB],GBR,54.6013,-1.179,Active,
+1bec0071,Triton [GB],GBR,57.0847,0.8901,Active,
+1c531849,Aspropyrgos Refinery,GRC,38.0318,23.6059,Operational,
+1c67c9a5,Moerdijk Chemicals,NLD,51.6844,4.5635,Operational,org_5a291a0f
+1cd9103c,"Brunsbuttel, SH [DE]",DEU,53.9073,9.1793,Active,
+1daea1f7,Kalundborg Refinery,DNK,55.6548,11.1024,Operational,org_ae80d7ca
+1e04ae30,Porvoo Olefins,FIN,60.2985,25.4863,Operational,org_83966a35
+1e7daa53,Lukoil Neftochim Burgas AD (Rossenets),BGR,42.451,27.5367,Active,
+1e8ccaa5,Pernis Refinery,NLD,51.8802,4.3372,Operational,org_5a291a0f
+1f2d783f,Nynas Gothenburg Refinery,SWE,57.6997,11.8485,Operational,
+1f9a0672,Chane Pernis Terminal,NLD,51.8913,4.3422,Active,
+206f80e4,Paldiski [EE],EST,59.3391,24.0689,Active,
+21ec4726,Ventspils [LV],LVA,57.3956,21.5614,Active,
+2290f820,Milazzo Refinery,ITA,38.2054,15.268,Operational,org_dac23fbf
+233a1e5d,Kemi [FI],FIN,65.6597,24.5148,Active,
+24bb32b4,Tarragona Refinery,ESP,41.179,1.222,Operational,
+24c5a285,Thames (London) [GB],GBR,51.4796,0.2071,Active,
+263da640,Porvoo [FI],FIN,60.3046,25.5507,Active,
+26af24bb,Gonfreville Refinery (Normandie),FRA,49.488,0.2407,Operational,org_17497594
+28bd0211,Tarragona Olefins (Dow Norte),ESP,41.1028,1.1836,Operational,org_f8c19908
+29dce54b,Newcastle Upon Tyne [GB],GBR,54.9866,-1.4791,Active,
+2a1bce3a,Tarragona [ES],ESP,41.0901,1.2167,Active,
+2a5496ac,Gebze [TR],TUR,40.7722,29.5666,Active,
+2b68ae18,Vega Oil Field [IT],ITA,36.5572,14.6411,Active,
+2bb49554,B3 Oil Field [PL],POL,55.4544,18.1811,Active,
+2d714da1,Gonfreville Petrochemical Complex,FRA,49.4848,0.2249,Operational,org_17497594
+307f8e57,ASESA Asphalt Refinery,ESP,41.1068,1.2124,Operational,org_5e00d7d1
+30d8879f,Gelsenkirchen Horst Refinery,DEU,51.5414,7.0471,Operational,org_aa2d6da0
+348f240a,Totseanergy (Total & SEA-Invest),BEL,51.269,4.3445,Active,
+35c64be4,Jedlicze Refinery,POL,49.7113,21.6663,Operational,org_ca660e97
+3617034c,Anasuria Field [GB],GBR,57.2555,0.8094,Active,
+36c4ccef,Ferrol [ES],ESP,43.4706,-8.2503,Active,
+383f296e,Rotterdam Refinery,NLD,51.8722,4.2916,Operational,org_71c54c03
+3894e3a2,Helsingborg [SE],SWE,56.0188,12.7022,Active,
+38c59ab4,Terneuzen [NL],NLD,51.3184,3.8126,Active,
+391abb50,Feyzin Refinery,FRA,45.6734,4.8412,Operational,
+39dc8740,Fos-sur-Mer Refinery,FRA,43.4455,4.9259,Operational,org_1f004390
+3a3b82a3,Grangemouth [GB],GBR,56.0288,-3.6963,Active,
+3c23882e,Schwedt Refinery,DEU,53.0926,14.238,Operational,org_4cb3407e
+3cc457e2,Brindisi [IT],ITA,40.6481,17.9724,Active,
+3ee18a0a,Hamina R [FI],FIN,60.5269,27.1654,Active,
+3f8e5330,Pfaffenhofen (Muenchsmuenster) Ethylene Complex,DEU,48.7564,11.7042,Operational,org_17c1351d
+403c865c,Burghausen Refinery,DEU,48.1936,12.8363,Operational,org_4d3a47b4
+46e5aa3e,Pancevo Refinery,SRB,44.8289,20.6869,Operational,org_8e773187
+47cf22ae,Terneuzen Petrochemical,NLD,51.3349,3.7964,Operational,org_5ff11695
+47e82818,Milazzo [IT],ITA,38.211,15.2675,Active,
+47f7223d,Litvinov Petrochemical Complex,CZE,50.5594,13.6042,Operational,org_ca660e97
+48c973b4,"Midia Marine Terminal (Petromidia Refinery, Rompetrol)",ROU,44.3335,28.6678,Active,
+49ad50c1,Sullom Voe [GB],GBR,60.4586,-1.2977,Active,
+4a4d05f7,MiRO Refinery Karlsruhe,DEU,49.0557,8.3463,Operational,org_46d579ac
+4b548307,Culzean Field [GB],GBR,57.1972,1.9605,Active,
+4b8f324d,Szazhalombatta Duna Refinery,HUN,47.2839,18.8978,Operational,org_37819584
+4ce24db9,Ingolstadt Refinery,DEU,48.7896,11.4728,Operational,org_4b0e0dbc
+4f22984e,Batman Refinery,TUR,37.881,41.1349,Operational,org_bd65cf96
+4fc6f7af,Immingham [GB],GBR,53.6342,-0.191,Active,
+4ff39f24,Lavera Ethylene,FRA,43.3858,5.0102,Operational,org_34ae1542
+5002acae,Gothenburg [SE],SWE,57.6965,11.8874,Active,
+50d7a92b,Sines [PT],PRT,37.939,-8.8613,Active,
+513c54ca,Aliaga [TR],TUR,38.7827,26.9228,Active,
+54e13929,Malmo M [SE],SWE,55.6196,13.0032,Active,
+57c8a769,Trzebinia Refinery,POL,50.1611,19.449,Operational,org_ca660e97
+5825f482,Riga [LV],LVA,57.0251,24.0845,Active,
+58b886ef,Iplom Refinery,ITA,44.5749,8.9474,Operational,
+598d4291,Douglas Complex [GB],GBR,53.6828,-3.545,Active,
+5a910042,Izmit Refinery,TUR,40.7475,29.769,Operational,org_bd65cf96
+5add53e0,Ludwigshafen Chemical Complex,DEU,49.4973,8.4281,Operational,
+5c3c3ded,Dunkirk Nord Petrochemicals,FRA,51.0294,2.2439,Operational,org_1e45efab
+5d23d3e2,Livorno [IT],ITA,43.568,10.3074,Active,
+5d49f8e7,Hamble [GB],GBR,50.849,-1.3271,Active,
+5d688dfc,NAFTOPORT Gdansk Oil Terminal,POL,54.4044,18.7186,Active,
+61510af2,Norrkoping [SE],SWE,58.6085,16.2101,Active,
+61b88dca,Hemiksem [BE],BEL,51.1503,4.3309,Active,
+62086957,Antwerpen Refinery,BEL,51.2677,4.3243,Operational,
+6406e1e8,Berre-l'Etang Petrochemicals,FRA,43.4911,5.1845,Operational,
+64d4fb0e,Augusta [IT],ITA,37.2073,15.2059,Active,
+65d622bd,Midia [RO],ROU,44.3268,28.7014,Active,
+66e32a72,Ghent [BE],BEL,51.1279,3.7638,Active,
+6797225f,Copenhagen [DK],DNK,55.6796,12.594,Active,
+67c34b92,Braefoot Bay [GB],GBR,56.0359,-3.3109,Active,
+6a46fddb,Chemelot-Geleen Chemical Complex,NLD,50.9599,5.789,Operational,org_05c483e8
+6a54ad25,Gelsenkirchen Scholven Refinery,DEU,51.6073,7.0218,Operational,org_aa2d6da0
+6bae4a23,Huelva [ES],ESP,37.1916,-6.9359,Active,
+6bde3d02,Shell Pernis Refinery,NLD,51.8849,4.3583,Active,
+6c4262ed,Harwich [GB],GBR,51.9485,1.239,Active,
+6d03de95,Heide Refinery,DEU,54.1554,9.0723,Operational,org_acb8b05c
+6f9b89c9,Turku T [FI],FIN,60.449,22.1121,Active,
+70d5316a,Bayernoil Neustadt Refinery,DEU,48.7863,11.754,Operational,org_a6ff75dd
+727a1f6f,Tanger-Mediterranean [MA],ESP,35.8936,-5.4948,Active,
+73be680c,Cologne Petrochemicals Complex,DEU,51.0676,6.8465,Operational,org_34ae1542
+741e890b,Alma Petroli S.p.A. Terminal,ITA,44.4786,12.2618,Active,
+74a48812,Rijeka Refinery,HRV,45.2884,14.537,Operational,org_37819584
+74b0c40d,Total Olefins Antwerp,BEL,51.2549,4.3299,Operational,org_20642469
+765d6912,BP Rotterdam Refinery,NLD,51.9437,4.1072,Operational,org_aa2d6da0
+792c769c,Zeeland Refinery (Ex Total Barging (Van Cittershaven)),NLD,51.4453,3.7193,Active,
+79573be6,Gela [IT],ITA,37.0253,14.2485,Active,
+7a003339,Mongstad Refinery,NOR,60.8105,5.0315,Operational,
+7a3911e7,Antwerp Refinery,BEL,51.2567,4.3391,Operational,org_71c54c03
+7ad6df35,Rotterdam [NL],NLD,51.9092,4.2794,Active,
+7ba4e4be,Rakovski Refinery,BGR,42.2025,25.0338,Operational,
+7c408615,Tupras Refinery - Tutunciftlik/Izmit,TUR,40.7439,29.7617,Active,
+7e3b2374,Ebs Europoort(Ebs Beneluxhaven),NLD,51.9519,4.1275,Active,
+7e8542d1,Fredericia (Og Shell-Havnen) [DK],DNK,55.5571,9.7478,Active,
+7ebca8e8,Sannazzaro Refinery,ITA,45.1004,8.8815,Operational,org_1b84459a
+7ec4e655,Apateu Refinery,ROU,46.6204,21.7608,Operational,
+7f03dd7d,Dumbarton Field [GB],GBR,58.3525,0.8593,Active,
+818851d9,Elefsina Refinery,GRC,38.0452,23.5103,Operational,
+82cc39d7,Moerdijk [NL],NLD,51.692,4.5965,Active,
+846fd219,BP Europoort (Ex Nerefco),NLD,51.9481,4.0907,Active,
+8527d0ef,Petrobrazi Refinery,ROU,44.8757,26.0109,Operational,org_4d3a47b4
+858966f0,Schwechat Refinery,AUT,48.141,16.4949,Operational,org_44a5c283
+85b45fea,Notre-Dame-de-Gravenchon Refinery,FRA,49.4791,0.5571,Operational,
+87da84dc,Preemraff Lysekil (Ex-Scanraff),SWE,58.3539,11.4367,Active,
+87e48f98,Isab South (Priolo),ITA,37.1136,15.2646,Active,
+8820a06a,Schiehallion Field [GB],GBR,60.3563,-4.0693,Active,
+88392c56,Aliaga Petrochemical Complex,TUR,38.7809,26.9362,Operational,org_0cdf5843
+89f67506,Stenungsund O [SE],SWE,58.0872,11.8111,Active,
+8a27ed79,Gdansk [PL],POL,54.3881,18.6739,Active,
+8ad9a60e,La Coruna Refinery,ESP,43.3509,-8.442,Operational,
+8b0072a2,Humber Refinery,GBR,53.6335,-0.2492,Operational,org_391454ec
+8cb1f5e9,Dortyol [TR],TUR,36.8385,36.1435,Active,
+8d5430e0,St1 Gothenburg Refinery,SWE,57.7012,11.8789,Operational,org_e378ff96
+8d803d51,Isab North (Priolo),ITA,37.1824,15.2038,Active,
+8f793f55,Stigsnaes [DK],DNK,55.2012,11.2522,Active,
+8fe972b8,Solan Field [GB],GBR,60.0528,-3.9513,Active,
+94db3491,Finnart [GB],GBR,56.1139,-4.8393,Active,
+951e82c8,Alma Petroli Refinery,ITA,44.479,12.2592,Operational,
+95955ab2,Thessaloniki Refinery,GRC,40.6796,22.8781,Operational,
+959a839b,Sarpom Refinery,ITA,45.438,8.7901,Operational,org_d7aabf63
+983f66ac,"Venice, Marghera [IT]",ITA,45.4462,12.2576,Active,
+9944fac5,Rostock [DE],DEU,54.1533,12.1039,Active,
+9b36065a,Maatschap Europoort Terminal,NLD,51.9212,4.2011,Active,
+9c25973d,Hamburg [DE],DEU,53.5199,9.9424,Active,
+9d1908d5,Amsterdam [NL],NLD,52.4078,4.8327,Active,
+9dca7d91,Ross Field [GB],GBR,58.1022,-1.4403,Active,
+9de034df,Isle Of Grain [GB],GBR,51.4323,0.694,Active,
+9eaa9be9,Butinge [LT],LVA,56.0464,20.9608,Active,
+9f011286,Saras Refinery,ITA,39.0801,9.0194,Operational,org_41f33409
+9f064f25,Mersin [TR],TUR,36.7931,34.675,Active,
+a138d843,Antwerp [BE],BEL,51.2798,4.3457,Active,
+a1ab60e4,Tupras Refinery - Izmit B Region,TUR,40.7547,29.7506,Active,
+a1b179ae,Sarroch (Porto Foxi) [IT],ITA,39.1064,9.038,Active,
+a43ffbc5,Litvinov Refinery,CZE,50.5625,13.6128,Operational,org_0bd26d72
+a587bd28,Leixoes [PT],PRT,41.1875,-8.6996,Active,
+a5b8acb5,Hound Point [GB],GBR,56.0071,-3.3603,Active,
+a6630b6f,Zeeland Refinery,NLD,51.4456,3.7272,Operational,
+a6813687,"Bakar, Rijeka [HR]",HRV,45.2887,14.4965,Active,
+a6a30172,Stanlow Essar Refinery Terminal,GBR,53.2867,-2.8504,Active,
+a81a21a0,Petroineos Lavera Refinery,FRA,43.3898,5.016,Operational,org_34ae1542
+a92397ab,Priolo Gargallo ISAB Refinery (South),ITA,37.1199,15.2197,Operational,org_b5284e8d
+ab338597,Genoa [IT],ITA,44.4088,8.8703,Active,
+ac28bf42,Klaipeda [LT],LTU,55.6847,21.1346,Active,
+ac64c327,Kalundborg [DK],DNK,55.6693,11.0916,Active,
+aded2aa9,Shell Europoort Terminal,NLD,51.9544,4.1361,Active,
+ae36b05f,Trieste [IT],ITA,45.6208,13.7788,Active,
+af489593,La Coruna [ES],ESP,43.357,-8.4319,Active,
+af5c2042,Marmara Ereglisi [TR],TUR,40.9935,27.9782,Active,
+b345de20,Wesseling Olefins and Monomers Complex,DEU,50.818,7.0055,Operational,org_17c1351d
+b3853037,Oulu O [FI],FIN,65.0044,25.4044,Active,
+b3f4dd08,Izmir Refinery,TUR,38.8071,26.9396,Operational,org_bd65cf96
+b4df57a6,Vopak Terminal Europoort,NLD,51.9169,4.2099,Active,
+b5853929,Taranto [IT],ITA,40.4691,17.2236,Active,
+b7a45f35,Nynashamn Refinery,SWE,58.9237,17.967,Operational,
+b7fea969,Bilbao [ES],ESP,43.345,-3.0481,Active,
+b97b1fa7,Zalaegerszeg Bitumen Refinery,HUN,46.8216,16.8559,Operational,org_37819584
+b9b7b8a8,Leuna Refinery,DEU,51.2873,11.9878,Operational,org_17497594
+ba34bcc6,Petrotel-Lukoil Refinery,ROU,44.9488,26.0791,Operational,org_1db2a8d3
+bb6398b6,Rheinland Godorf Refinery (North),DEU,50.8594,6.9798,Operational,org_5a291a0f
+be27ba75,Corinth Refinery,GRC,37.9184,23.0734,Operational,
+be6d7aaa,Visp Chemical Complex,CHE,46.2954,7.8848,Operational,org_9ce486e7
+be839cf7,Alba Field [GB],GBR,58.0483,1.0323,Active,
+bef79ccb,Flotta [GB],GBR,58.8455,-3.1161,Active,
+bf274787,De Ruyter Oil Field [NL],NLD,52.3701,3.3498,Active,
+bfe69bb9,Vaasa V [FI],FIN,63.0853,21.557,Active,
+c023abf1,Bratislava Petrochemical Complex,SVK,48.1183,17.1823,Operational,org_decdbacd
+c283c0f8,Lancaster Oil Field [GB],GBR,60.1846,-3.8819,Active,
+c3199690,Preemraff Gothenburg Refinery,SWE,57.7087,11.8278,Operational,org_bd6c7fc0
+c427150a,Algeciras [ES],ESP,36.1402,-5.4206,Active,
+c4ac66e9,Api Ancona Refinery,ITA,43.6388,13.3795,Operational,org_0cdf5843
+c64eed0e,Bayernoil Vohburg Refinery,DEU,48.7682,11.5999,Operational,org_a6ff75dd
+c7665fa4,Kirikkale Refinery,TUR,39.7443,33.4592,Operational,org_bd65cf96
+c7729100,Castellon Refinery,ESP,39.9519,-0.0024,Operational,org_aa2d6da0
+c78f7046,Mazeikiai Refinery,LTU,56.3915,22.1755,Operational,org_ca660e97
+c862e909,Holtenau [DE],DEU,54.3586,10.1379,Active,
+c92856ad,Stockholm B [SE],SWE,59.3381,18.135,Active,
+caaf9dcf,Tetney Terminal [GB],GBR,53.5392,0.1122,Active,
+cb0703b0,Repsol Refinery Cartagena,ESP,37.5671,-0.9656,Active,
+cc164d13,San Roque Energy Park (Gibraltar Refinery),ESP,36.1835,-5.3975,Operational,org_21a85cbc
+ce401f46,Cartagena [ES],ESP,37.5799,-0.97,Active,
+ce85600a,Ravenna [IT],ITA,44.4611,12.2545,Active,
+d0fe845d,Burgas (Bourgas) [BG],BGR,42.4724,27.4906,Active,
+d27edb51,Liquin (ex-Vopak) Terminal Botlek,NLD,51.8829,4.2994,Active,
+d378f0f0,Priolo Gargallo ISAB Refinery (North),ITA,37.1776,15.1883,Operational,org_b5284e8d
+d4c77b69,Ceyhan [TR],TUR,36.8848,35.9623,Active,
+d6bc78b3,"Rospo Mare Field, Termoli [IT]",ITA,42.2012,14.9397,Active,
+d74f673f,Tupras Refinery - Aliaga/Izmir,TUR,38.824,26.9491,Active,
+d79eb2e2,Fawley [GB],GBR,50.839,-1.3292,Active,
+d941692a,Sarlux (Ex-Saras),ITA,39.0851,9.0404,Active,
+d96250b1,Setubal [PT],PRT,38.4965,-8.8515,Active,
+daac8705,Fawley Refinery,GBR,50.8314,-1.3644,Operational,org_71c54c03
+db362fa2,B8 Oil Field [PL],POL,55.3834,18.7459,Active,
+db8af6ec,API Refinery Terminal,ITA,43.6572,13.3989,Active,
+de5ae086,Constanta [RO],ROU,44.133,28.6539,Active,
+e0e41130,Mariner Field [GB],GBR,59.6083,1.0765,Active,
+e221d8f7,Pembroke [GB],GBR,51.6975,-5.0382,Active,
+e27c1bf9,Castellon De La Plana [ES],ESP,39.9624,0.0253,Active,
+e4de39ff,Agioi Theodoroi [GR],GRC,37.9178,23.0445,Active,
+e61742a6,Yenikoy-Autoport [TR],TUR,40.7224,29.8758,Active,
+e682bb86,"Pachi, Megara [GR]",GRC,37.966,23.3963,Active,
+e766d6af,Liverpool [GB],GBR,53.4222,-3.0099,Active,
+e821d76d,Total Refinery Antwerpen,BEL,51.264,4.3306,Active,
+e90ab211,La Rabida Energy Park (La Rabida Refinery),ESP,37.1833,-6.8998,Operational,org_21a85cbc
+e9e6f955,Cartagena Refinery (Repsol),ESP,37.5725,-0.9236,Operational,
+ea599e63,Marsaxlokk [MT],ITA,35.8226,14.5424,Active,
+eae3910e,Ceuta [ES],ESP,35.8958,-5.3124,Active,
+eb05f2e5,Gdansk Refinery,POL,54.3485,18.7334,Operational,
+eddbcbe4,Lingen Emsland Refinery,DEU,52.5626,7.3096,Operational,org_aa2d6da0
+eed57791,Tiszaujvaros Petrochemical Complex,HUN,47.9132,21.0328,Operational,org_d0e98097
+effbc0d3,Thessaloniki [GR],GRC,40.6335,22.9032,Active,
+f04fa134,Eastham Refinery,GBR,53.312,-2.9444,Operational,
+f082d14f,Plock Refinery,POL,52.5886,19.6774,Operational,
+f0c4ad73,Nynashamn [SE],SWE,58.919,17.9728,Active,
+f28b1880,HES Botlek Tank Terminal (HBTT),NLD,51.8812,4.2672,Active,
+f2e21dac,Aegean Aliaga (Star Ege) Refinery,TUR,38.8009,26.9319,Operational,
+f37a391f,Catcher Field [GB],GBR,56.7719,0.7094,Active,
+f3b6e742,Elefsis (Elevsis) [GR],GRC,38.036,23.5199,Active,
+f5492885,Cadiz [ES],ESP,36.5147,-6.2383,Active,
+f7681451,Augusta Refinery,ITA,37.2211,15.1802,Operational,org_d557ccc9
+f87e7ba6,Motril [ES],ESP,36.7192,-3.5168,Active,
+f93b448e,Varna [BG],BGR,43.1917,27.7868,Active,
+f9e0138e,Antalya [TR],TUR,36.8283,30.6082,Active,
+fac4c032,Slovnaft Refinery (MOL Nyrt),SVK,48.1183,17.1823,Operational,org_d0e98097
+fae4e58f,Stanlow Refinery,GBR,53.2731,-2.846,Operational,org_8ae207d7
+fb0b3578,Savona-Vado [IT],ITA,44.287,8.4675,Active,
+fbd5de55,Pembroke Refinery,GBR,51.6834,-5.0299,Operational,org_2b3f62a0
+fc849b55,"Kokkola, Pietarsaari V [FI]",FIN,63.8605,23.0395,Active,
+fd662c46,Kralupy nad Vltavou Refinery,CZE,50.2585,14.3246,Operational,org_0bd26d72
+fd79de4d,Kotka [FI],FIN,60.4615,26.9452,Active,
+fe1f5479,Irving Oil Whitegate Refinery,IRL,51.8337,-8.2612,Active,
+ffc8d3be,Pancevo Petrochemical Complex,SRB,44.8354,20.6643,Operational,org_8e773187

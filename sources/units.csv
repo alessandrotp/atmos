@@ -1,0 +1,329 @@
+id,facility_id,name,unit_type,design_capacity_t_per_year,status
+u_0001,037be004,"Berths 510&511 (Tank Storage Gothenburg, ST1, Inter, ODEC) Terminal",port_terminal,,Active
+u_0002,03be3727,Caldic Europoort B.V. Terminal,port_terminal,,Active
+u_0003,047888e3,Crude,crude_distillation,3737217.0,Operational
+u_0004,06f2fa25,Atmospheric Distillation (DA),crude_distillation,5232104.0,Operational
+u_0005,08ffe6d2,Crude,crude_distillation,3737217.0,Operational
+u_0006,0943f240,AD 2 (Atmospheric Distillation),crude_distillation,1504853.0,Operational
+u_0007,0943f240,AD 3 (Atmospheric Distillation),crude_distillation,2057961.0,Operational
+u_0008,0943f240,AD 4 (Atmospheric Distillation),crude_distillation,2989774.0,Operational
+u_0009,0943f240,AD 5 (Atmospheric Distillation),crude_distillation,2989774.0,Operational
+u_0010,09ce0874,Chane Botlek Terminal,port_terminal,,Active
+u_0011,09f877a8,Barcelona [ES] Terminal,port_terminal,,Active
+u_0012,0a8165e3,DA (Atmospheric Distillation),crude_distillation,3388410.0,Operational
+u_0013,0ae30682,Api Refinery SBM Terminal,port_terminal,,Active
+u_0014,0baa2673,Kalmar [SE] Terminal,port_terminal,,Active
+u_0015,0c706f61,Gdynia [PL] Terminal,port_terminal,,Active
+u_0016,0da44787,Captain Field [GB] Terminal,port_terminal,,Active
+u_0017,0dc94d4c,Crude Distillation Unit (210),crude_distillation,10962503.0,Operational
+u_0018,0e113b75,Milford Haven [GB] Terminal,port_terminal,,Active
+u_0019,0edae41d,Atmospheric Crude Distillation,crude_distillation,10264889.0,Operational
+u_0020,0f764555,Aspropyrgos [GR] Terminal,port_terminal,,Active
+u_0021,1288c44b,CDU (U100),crude_distillation,6477843.0,Operational
+u_0022,12d6ed9a,Asfaltos Espanoles (ASESA) Terminal,port_terminal,,Active
+u_0023,141dc4d9,Crude Distillation,crude_distillation,4982956.0,Operational
+u_0024,14f4a8c6,Socar Star Refinery Terminal,port_terminal,,Active
+u_0025,150747c9,Izmail [UA] Terminal,port_terminal,,Active
+u_0026,156c1fbc,Total Olefins Antwerp (TOA) Terminal,port_terminal,,Active
+u_0027,159fda82,Crude 1,crude_distillation,6477843.0,Operational
+u_0028,159fda82,Crude 2,crude_distillation,4484660.0,Operational
+u_0029,15e16c3c,Ethylene,steam_cracker_naphtha,565176.0,Operational
+u_0030,176640e9,DA (D2E) (Atmospheric Distillation),crude_distillation,11460799.0,Operational
+u_0031,18962161,Atmospheric Distillation,crude_distillation,11211651.0,Operational
+u_0032,19240ddd,"Wilhelmshaven, NI [DE] Terminal",port_terminal,,Active
+u_0033,19564e64,Crude 1 (U-601),crude_distillation,3009705.0,Operational
+u_0034,19564e64,Crude 2 (U-602),crude_distillation,5266985.0,Operational
+u_0035,19f089af,Vlissingen (Flushing) [NL] Terminal,port_terminal,,Active
+u_0036,1b03b303,Teesport [GB] Terminal,port_terminal,,Active
+u_0037,1bec0071,Triton [GB] Terminal,port_terminal,,Active
+u_0038,1c531849,Crude 1 (2100),crude_distillation,4235513.0,Operational
+u_0039,1c531849,Crude 2 (2000),crude_distillation,2591137.0,Operational
+u_0040,1c67c9a5,Ethylene,steam_cracker_naphtha,939843.0,Operational
+u_0041,1cd9103c,"Brunsbuttel, SH [DE] Terminal",port_terminal,,Active
+u_0042,1daea1f7,Section 200 (Atmospheric Distillation),crude_distillation,3383427.0,Operational
+u_0043,1e04ae30,Ethylene,steam_cracker_naphtha,430006.0,Operational
+u_0044,1e7daa53,Lukoil Neftochim Burgas AD (Rossenets) Terminal,port_terminal,,Active
+u_0045,1e8ccaa5,CD 6 (Sour),crude_distillation,9965912.0,Operational
+u_0046,1e8ccaa5,Crude 5 (Sweet&Sour),crude_distillation,9965912.0,Operational
+u_0047,1f2d783f,Atmospheric Distillation,crude_distillation,398636.0,Operational
+u_0048,1f9a0672,Chane Pernis Terminal,port_terminal,,Active
+u_0049,206f80e4,Paldiski [EE] Terminal,port_terminal,,Active
+u_0050,21ec4726,Ventspils [LV] Terminal,port_terminal,,Active
+u_0051,2290f820,U013 TP3 (Topping 3),crude_distillation,6869453.0,Operational
+u_0052,2290f820,U017 TP4 (Topping 4),crude_distillation,5531081.0,Operational
+u_0053,233a1e5d,Kemi [FI] Terminal,port_terminal,,Active
+u_0054,24bb32b4,Crude 1,crude_distillation,7474434.0,Operational
+u_0055,24bb32b4,Crude 2,crude_distillation,1195909.0,Operational
+u_0056,24c5a285,Thames (London) [GB] Terminal,port_terminal,,Active
+u_0057,263da640,Porvoo [FI] Terminal,port_terminal,,Active
+u_0058,26af24bb,D11 (Crude Unit),crude_distillation,12457390.0,Operational
+u_0059,28bd0211,Ethylene,steam_cracker_naphtha,659977.0,Operational
+u_0060,29dce54b,Newcastle Upon Tyne [GB] Terminal,port_terminal,,Active
+u_0061,2a1bce3a,Tarragona [ES] Terminal,port_terminal,,Active
+u_0062,2a5496ac,Gebze [TR] Terminal,port_terminal,,Active
+u_0063,2b68ae18,Vega Oil Field [IT] Terminal,port_terminal,,Active
+u_0064,2bb49554,B3 Oil Field [PL] Terminal,port_terminal,,Active
+u_0065,2d714da1,Steam Cracker,steam_cracker_naphtha,519817.0,Operational
+u_0066,307f8e57,Atmospheric & Vacuum Distillation,crude_distillation,1494887.0,Operational
+u_0067,30d8879f,A11 Topping Unit,crude_distillation,5979547.0,Operational
+u_0068,348f240a,Totseanergy (Total & SEA-Invest) Terminal,port_terminal,,Active
+u_0069,35c64be4,Crude,crude_distillation,1395228.0,Operational
+u_0070,3617034c,Anasuria Field [GB] Terminal,port_terminal,,Active
+u_0071,36c4ccef,Ferrol [ES] Terminal,port_terminal,,Active
+u_0072,383f296e,Pipestill (Crude 1),crude_distillation,9517446.0,Operational
+u_0073,3894e3a2,Helsingborg [SE] Terminal,port_terminal,,Active
+u_0074,38c59ab4,Terneuzen [NL] Terminal,port_terminal,,Active
+u_0075,391abb50,DA2 (Atmospheric Distillation) (PC2),crude_distillation,5830059.0,Operational
+u_0076,39dc8740,DA (Atmospheric Distillation Unit),crude_distillation,6976138.0,Operational
+u_0077,3a3b82a3,Grangemouth [GB] Terminal,port_terminal,,Active
+u_0078,3c23882e,Crude 1,crude_distillation,3687387.0,Operational
+u_0079,3c23882e,Crude 2,crude_distillation,7125627.0,Operational
+u_0080,3cc457e2,Brindisi [IT] Terminal,port_terminal,,Active
+u_0081,3ee18a0a,Hamina R [FI] Terminal,port_terminal,,Active
+u_0082,3f8e5330,Ethylene,steam_cracker_naphtha,364688.0,Operational
+u_0083,403c865c,Crude Distillation Unit,crude_distillation,3488069.0,Operational
+u_0084,46e5aa3e,Atmospheric Distillation 2,crude_distillation,3373212.0,Operational
+u_0085,46e5aa3e,Crude Distillation 1 S-100,crude_distillation,1460255.0,Operational
+u_0086,47cf22ae,LHC 1,steam_cracker_naphtha,594660.0,Operational
+u_0087,47cf22ae,LHC 2,steam_cracker_naphtha,594660.0,Operational
+u_0088,47cf22ae,LHC 3,steam_cracker_naphtha,594660.0,Operational
+u_0089,47e82818,Milazzo [IT] Terminal,port_terminal,,Active
+u_0090,47f7223d,Ethylene,steam_cracker_naphtha,392221.0,Operational
+u_0091,48c973b4,"Midia Marine Terminal (Petromidia Refinery, Rompetrol)",port_terminal,,Active
+u_0092,49ad50c1,Sullom Voe [GB] Terminal,port_terminal,,Active
+u_0093,4a4d05f7,Topping 1,crude_distillation,3737217.0,Operational
+u_0094,4a4d05f7,Topping 2,crude_distillation,6682144.0,Operational
+u_0095,4a4d05f7,Topping 3,crude_distillation,5446371.0,Operational
+u_0096,4b548307,Culzean Field [GB] Terminal,port_terminal,,Active
+u_0097,4b8f324d,CD 1,crude_distillation,1529768.0,Operational
+u_0098,4b8f324d,CD 2,crude_distillation,2840285.0,Operational
+u_0099,4b8f324d,CD 3,crude_distillation,3602677.0,Operational
+u_0100,4ce24db9,Crude 1,crude_distillation,3762132.0,Operational
+u_0101,4ce24db9,Crude 2,crude_distillation,1719120.0,Operational
+u_0102,4f22984e,Crude 100,crude_distillation,330220.0,Operational
+u_0103,4f22984e,Crude 1100,crude_distillation,766727.0,Operational
+u_0104,4fc6f7af,Immingham [GB] Terminal,port_terminal,,Active
+u_0105,4ff39f24,Ethylene,steam_cracker_naphtha,899474.0,Operational
+u_0106,5002acae,Gothenburg [SE] Terminal,port_terminal,,Active
+u_0107,50d7a92b,Sines [PT] Terminal,port_terminal,,Active
+u_0108,513c54ca,Aliaga [TR] Terminal,port_terminal,,Active
+u_0109,54e13929,Malmo M [SE] Terminal,port_terminal,,Active
+u_0110,57c8a769,Crude,crude_distillation,360218.0,Operational
+u_0111,5825f482,Riga [LV] Terminal,port_terminal,,Active
+u_0112,58b886ef,Topping U100,crude_distillation,1694205.0,Operational
+u_0113,598d4291,Douglas Complex [GB] Terminal,port_terminal,,Active
+u_0114,5a910042,Crude (Plant 2),crude_distillation,2038029.0,Operational
+u_0115,5a910042,Crude (Plant 25),crude_distillation,4982956.0,Operational
+u_0116,5a910042,Crude (Plant 5),crude_distillation,4230530.0,Operational
+u_0117,5add53e0,Ethylene No. 1,steam_cracker_naphtha,259908.0,Operational
+u_0118,5add53e0,Ethylene No. 2,steam_cracker_naphtha,400068.0,Operational
+u_0119,5c3c3ded,Steam Cracker,steam_cracker_naphtha,379657.0,Operational
+u_0120,5d23d3e2,Livorno [IT] Terminal,port_terminal,,Active
+u_0121,5d49f8e7,Hamble [GB] Terminal,port_terminal,,Active
+u_0122,5d688dfc,NAFTOPORT Gdansk Oil Terminal,port_terminal,,Active
+u_0123,61510af2,Norrkoping [SE] Terminal,port_terminal,,Active
+u_0124,61b88dca,Hemiksem [BE] Terminal,port_terminal,,Active
+u_0125,62086957,CDU 3 (Crude) (J63),crude_distillation,7524264.0,Operational
+u_0126,62086957,CDU 4 (Crude),crude_distillation,10514037.0,Operational
+u_0127,6406e1e8,Steam Cracker (aka U250),steam_cracker_naphtha,521631.0,Operational
+u_0128,64d4fb0e,Augusta [IT] Terminal,port_terminal,,Active
+u_0129,65d622bd,Midia [RO] Terminal,port_terminal,,Active
+u_0130,66e32a72,Ghent [BE] Terminal,port_terminal,,Active
+u_0131,6797225f,Copenhagen [DK] Terminal,port_terminal,,Active
+u_0132,67c34b92,Braefoot Bay [GB] Terminal,port_terminal,,Active
+u_0133,6a46fddb,Naphthacracker - NAK 4,steam_cracker_naphtha,549754.0,Operational
+u_0134,6a54ad25,A 8 Topping Unit,crude_distillation,3488069.0,Operational
+u_0135,6a54ad25,A7 Topping Unit,crude_distillation,3488069.0,Operational
+u_0136,6bae4a23,Huelva [ES] Terminal,port_terminal,,Active
+u_0137,6bde3d02,Shell Pernis Refinery Terminal,port_terminal,,Active
+u_0138,6c4262ed,Harwich [GB] Terminal,port_terminal,,Active
+u_0139,6d03de95,Topping Unit 5,crude_distillation,2690796.0,Operational
+u_0140,6d03de95,Topping Unit 6,crude_distillation,1793864.0,Operational
+u_0141,6f9b89c9,Turku T [FI] Terminal,port_terminal,,Active
+u_0142,70d5316a,Topping 1,crude_distillation,4285342.0,Operational
+u_0143,727a1f6f,Tanger-Mediterranean [MA] Terminal,port_terminal,,Active
+u_0144,73be680c,Ethylene Cracker 4,steam_cracker_naphtha,680389.0,Operational
+u_0145,73be680c,Ethylene Cracker 5,steam_cracker_naphtha,680389.0,Operational
+u_0146,741e890b,Alma Petroli S.p.A. Terminal,port_terminal,,Active
+u_0147,74a48812,CDU-Topping 3,crude_distillation,4484660.0,Operational
+u_0148,74b0c40d,Naphtha Cracker 2,steam_cracker_naphtha,549754.0,Operational
+u_0149,74b0c40d,Naphtha Cracker 3,steam_cracker_naphtha,480808.0,Operational
+u_0150,765d6912,CDU 3 (Sweet),crude_distillation,9965912.0,Operational
+u_0151,765d6912,CDU 4 (Sour),crude_distillation,9965912.0,Operational
+u_0152,792c769c,Zeeland Refinery (Ex Total Barging (Van Cittershaven)) Terminal,port_terminal,,Active
+u_0153,79573be6,Gela [IT] Terminal,port_terminal,,Active
+u_0154,7a003339,Crude,crude_distillation,9965912.0,Operational
+u_0155,7a3911e7,Crude Unit,crude_distillation,15397334.0,Operational
+u_0156,7ad6df35,Rotterdam [NL] Terminal,port_terminal,,Active
+u_0157,7ba4e4be,Crude 1,crude_distillation,80026.0,Operational
+u_0158,7ba4e4be,Crude 2,crude_distillation,219250.0,Operational
+u_0159,7ba4e4be,Crude and Vacuum 2,crude_distillation,80026.0,Operational
+u_0160,7c408615,Tupras Refinery - Tutunciftlik/Izmit Terminal,port_terminal,,Active
+u_0161,7e3b2374,Ebs Europoort(Ebs Beneluxhaven) Terminal,port_terminal,,Active
+u_0162,7e8542d1,Fredericia (Og Shell-Havnen) [DK] Terminal,port_terminal,,Active
+u_0163,7ebca8e8,Topping 1 (Unit 53),crude_distillation,5780229.0,Operational
+u_0164,7ebca8e8,Topping Unit 2 (Unit 10),crude_distillation,6527672.0,Operational
+u_0165,7ec4e655,Atmospheric Distillation (DAV),crude_distillation,249148.0,Operational
+u_0166,7f03dd7d,Dumbarton Field [GB] Terminal,port_terminal,,Active
+u_0167,818851d9,Crude Distillation (Crude 01),crude_distillation,3861791.0,Operational
+u_0168,818851d9,Crude Distillation (Crude 02),crude_distillation,1121165.0,Operational
+u_0169,82cc39d7,Moerdijk [NL] Terminal,port_terminal,,Active
+u_0170,846fd219,BP Europoort (Ex Nerefco) Terminal,port_terminal,,Active
+u_0171,8527d0ef,Atmospheric Distillation (DAV),crude_distillation,4285342.0,Operational
+u_0172,858966f0,Crude 1,crude_distillation,7474434.0,Operational
+u_0173,858966f0,Crude 2,crude_distillation,2092842.0,Operational
+u_0174,85b45fea,Crude 1 (Pegase),crude_distillation,3488069.0,Operational
+u_0175,85b45fea,"Crude 2 (Unit 17-1, Conversion)",crude_distillation,8471025.0,Operational
+u_0176,87da84dc,Preemraff Lysekil (Ex-Scanraff) Terminal,port_terminal,,Active
+u_0177,87e48f98,Isab South (Priolo) Terminal,port_terminal,,Active
+u_0178,8820a06a,Schiehallion Field [GB] Terminal,port_terminal,,Active
+u_0179,88392c56,Ethylene,steam_cracker_naphtha,519817.0,Operational
+u_0180,89f67506,Stenungsund O [SE] Terminal,port_terminal,,Active
+u_0181,8a27ed79,Gdansk [PL] Terminal,port_terminal,,Active
+u_0182,8ad9a60e,Crude 1,crude_distillation,2506427.0,Operational
+u_0183,8ad9a60e,Crude 2,crude_distillation,3448206.0,Operational
+u_0184,8b0072a2,CTU 1,crude_distillation,6976138.0,Operational
+u_0185,8b0072a2,CTU 2,crude_distillation,5232104.0,Operational
+u_0186,8cb1f5e9,Dortyol [TR] Terminal,port_terminal,,Active
+u_0187,8d5430e0,Crude Distillation Unit 1,crude_distillation,747443.0,Operational
+u_0188,8d5430e0,Crude Distillation Unit 2,crude_distillation,747443.0,Operational
+u_0189,8d5430e0,Crude Distillation Unit 3,crude_distillation,2491478.0,Operational
+u_0190,8d803d51,Isab North (Priolo) Terminal,port_terminal,,Active
+u_0191,8f793f55,Stigsnaes [DK] Terminal,port_terminal,,Active
+u_0192,8fe972b8,Solan Field [GB] Terminal,port_terminal,,Active
+u_0193,94db3491,Finnart [GB] Terminal,port_terminal,,Active
+u_0194,951e82c8,Primary Distillation (CDU),crude_distillation,543142.0,Operational
+u_0195,95955ab2,Crude,crude_distillation,4634149.0,Operational
+u_0196,959a839b,APS3 (Topping 3),crude_distillation,6976138.0,Operational
+u_0197,983f66ac,"Venice, Marghera [IT] Terminal",port_terminal,,Active
+u_0198,9944fac5,Rostock [DE] Terminal,port_terminal,,Active
+u_0199,9b36065a,Maatschap Europoort Terminal,port_terminal,,Active
+u_0200,9c25973d,Hamburg [DE] Terminal,port_terminal,,Active
+u_0201,9d1908d5,Amsterdam [NL] Terminal,port_terminal,,Active
+u_0202,9dca7d91,Ross Field [GB] Terminal,port_terminal,,Active
+u_0203,9de034df,Isle Of Grain [GB] Terminal,port_terminal,,Active
+u_0204,9eaa9be9,Butinge [LT] Terminal,port_terminal,,Active
+u_0205,9f011286,Topping RT2,crude_distillation,3288751.0,Operational
+u_0206,9f011286,Topping T1,crude_distillation,5755314.0,Operational
+u_0207,9f011286,Topping T2,crude_distillation,5904803.0,Operational
+u_0208,9f064f25,Mersin [TR] Terminal,port_terminal,,Active
+u_0209,a138d843,Antwerp [BE] Terminal,port_terminal,,Active
+u_0210,a1ab60e4,Tupras Refinery - Izmit B Region Terminal,port_terminal,,Active
+u_0211,a1b179ae,Sarroch (Porto Foxi) [IT] Terminal,port_terminal,,Active
+u_0212,a43ffbc5,CDU 1 (Crude Distillation Unit),crude_distillation,1744035.0,Operational
+u_0213,a43ffbc5,CDU 2 (Crude Distillation Unit),crude_distillation,3677422.0,Operational
+u_0214,a587bd28,Leixoes [PT] Terminal,port_terminal,,Active
+u_0215,a5b8acb5,Hound Point [GB] Terminal,port_terminal,,Active
+u_0216,a6630b6f,Crude Distillation,crude_distillation,7623923.0,Operational
+u_0217,a6813687,"Bakar, Rijeka [HR] Terminal",port_terminal,,Active
+u_0218,a6a30172,Stanlow Essar Refinery Terminal,port_terminal,,Active
+u_0219,a81a21a0,Topping 5 (Distillation-Crude),crude_distillation,10862844.0,Operational
+u_0220,a92397ab,Unit 100 Topping,crude_distillation,5979547.0,Operational
+u_0221,ab338597,Genoa [IT] Terminal,port_terminal,,Active
+u_0222,ac28bf42,Klaipeda [LT] Terminal,port_terminal,,Active
+u_0223,ac64c327,Kalundborg [DK] Terminal,port_terminal,,Active
+u_0224,aded2aa9,Shell Europoort Terminal,port_terminal,,Active
+u_0225,ae36b05f,Trieste [IT] Terminal,port_terminal,,Active
+u_0226,af489593,La Coruna [ES] Terminal,port_terminal,,Active
+u_0227,af5c2042,Marmara Ereglisi [TR] Terminal,port_terminal,,Active
+u_0228,b345de20,Ethylene Cracker OM4,steam_cracker_naphtha,304996.0,Operational
+u_0229,b345de20,Ethylene Cracker OM6,steam_cracker_naphtha,734820.0,Operational
+u_0230,b3853037,Oulu O [FI] Terminal,port_terminal,,Active
+u_0231,b3f4dd08,Crude 100 (Old),crude_distillation,4509575.0,Operational
+u_0232,b3f4dd08,Crude 7000,crude_distillation,7524264.0,Operational
+u_0233,b4df57a6,Vopak Terminal Europoort,port_terminal,,Active
+u_0234,b5853929,Taranto [IT] Terminal,port_terminal,,Active
+u_0235,b7a45f35,Crude Distillation Unit,crude_distillation,1445057.0,Operational
+u_0236,b7fea969,Bilbao [ES] Terminal,port_terminal,,Active
+u_0237,b97b1fa7,A1V Atmospheric Distillation,crude_distillation,199318.0,Operational
+u_0238,b9b7b8a8,Crude Distillation,crude_distillation,11959094.0,Operational
+u_0239,ba34bcc6,Atmospheric Distillation (DAV3),crude_distillation,2391819.0,Operational
+u_0240,bb6398b6,Crude Distillation 1,crude_distillation,3986365.0,Operational
+u_0241,bb6398b6,Crude Distillation 2,crude_distillation,5481252.0,Operational
+u_0242,be27ba75,Crude U-1100 (Crude 1),crude_distillation,6976138.0,Operational
+u_0243,be27ba75,Crude U-7100 (Crude 2),crude_distillation,2989774.0,Operational
+u_0244,be6d7aaa,Ethylene,steam_cracker_naphtha,29937.0,Operational
+u_0245,be839cf7,Alba Field [GB] Terminal,port_terminal,,Active
+u_0246,bef79ccb,Flotta [GB] Terminal,port_terminal,,Active
+u_0247,bf274787,De Ruyter Oil Field [NL] Terminal,port_terminal,,Active
+u_0248,bfe69bb9,Vaasa V [FI] Terminal,port_terminal,,Active
+u_0249,c023abf1,Ethylene,steam_cracker_naphtha,200488.0,Operational
+u_0250,c283c0f8,Lancaster Oil Field [GB] Terminal,port_terminal,,Active
+u_0251,c3199690,Crude Distillation 1,crude_distillation,3134279.0,Operational
+u_0252,c3199690,Crude Distillation 2,crude_distillation,3134279.0,Operational
+u_0253,c427150a,Algeciras [ES] Terminal,port_terminal,,Active
+u_0254,c4ac66e9,Topping (1000),crude_distillation,4235513.0,Operational
+u_0255,c64eed0e,Topping 1,crude_distillation,2989774.0,Operational
+u_0256,c64eed0e,Topping 2,crude_distillation,2989774.0,Operational
+u_0257,c7665fa4,Crude (ADU) (Plt 1100),crude_distillation,5640706.0,Operational
+u_0258,c7729100,Crude,crude_distillation,5182274.0,Operational
+u_0259,c78f7046,CDU- S100 (Crude 01),crude_distillation,9467616.0,Operational
+u_0260,c862e909,Holtenau [DE] Terminal,port_terminal,,Active
+u_0261,c92856ad,Stockholm B [SE] Terminal,port_terminal,,Active
+u_0262,caaf9dcf,Tetney Terminal [GB],port_terminal,,Active
+u_0263,cb0703b0,Repsol Refinery Cartagena Terminal,port_terminal,,Active
+u_0264,cc164d13,Crude 1,crude_distillation,5830059.0,Operational
+u_0265,cc164d13,Crude 3,crude_distillation,6477843.0,Operational
+u_0266,ce401f46,Cartagena [ES] Terminal,port_terminal,,Active
+u_0267,ce85600a,Ravenna [IT] Terminal,port_terminal,,Active
+u_0268,d0fe845d,Burgas (Bourgas) [BG] Terminal,port_terminal,,Active
+u_0269,d27edb51,Liquin (ex-Vopak) Terminal Botlek,port_terminal,,Active
+u_0270,d378f0f0,Topping (CR 30),crude_distillation,6178865.0,Operational
+u_0271,d4c77b69,Ceyhan [TR] Terminal,port_terminal,,Active
+u_0272,d6bc78b3,"Rospo Mare Field, Termoli [IT] Terminal",port_terminal,,Active
+u_0273,d74f673f,Tupras Refinery - Aliaga/Izmir Terminal,port_terminal,,Active
+u_0274,d79eb2e2,Fawley [GB] Terminal,port_terminal,,Active
+u_0275,d941692a,Sarlux (Ex-Saras) Terminal,port_terminal,,Active
+u_0276,d96250b1,Setubal [PT] Terminal,port_terminal,,Active
+u_0277,daac8705,Pipestill 1,crude_distillation,3986365.0,Operational
+u_0278,daac8705,Pipestill 3,crude_distillation,9467616.0,Operational
+u_0279,db362fa2,B8 Oil Field [PL] Terminal,port_terminal,,Active
+u_0280,db8af6ec,API Refinery Terminal,port_terminal,,Active
+u_0281,de5ae086,Constanta [RO] Terminal,port_terminal,,Active
+u_0282,e0e41130,Mariner Field [GB] Terminal,port_terminal,,Active
+u_0283,e221d8f7,Pembroke [GB] Terminal,port_terminal,,Active
+u_0284,e27c1bf9,Castellon De La Plana [ES] Terminal,port_terminal,,Active
+u_0285,e4de39ff,Agioi Theodoroi [GR] Terminal,port_terminal,,Active
+u_0286,e61742a6,Yenikoy-Autoport [TR] Terminal,port_terminal,,Active
+u_0287,e682bb86,"Pachi, Megara [GR] Terminal",port_terminal,,Active
+u_0288,e766d6af,Liverpool [GB] Terminal,port_terminal,,Active
+u_0289,e821d76d,Total Refinery Antwerpen Terminal,port_terminal,,Active
+u_0290,e90ab211,Crude 1,crude_distillation,5281933.0,Operational
+u_0291,e90ab211,Crude 2,crude_distillation,5730399.0,Operational
+u_0292,e9e6f955,Topping 3,crude_distillation,4982956.0,Operational
+u_0293,e9e6f955,Topping 4 (U-601),crude_distillation,5979547.0,Operational
+u_0294,ea599e63,Marsaxlokk [MT] Terminal,port_terminal,,Active
+u_0295,eae3910e,Ceuta [ES] Terminal,port_terminal,,Active
+u_0296,eb05f2e5,CDU/VDU (120),crude_distillation,4484660.0,Operational
+u_0297,eb05f2e5,Crude (100),crude_distillation,5979547.0,Operational
+u_0298,eddbcbe4,Crude 1,crude_distillation,2317075.0,Operational
+u_0299,eddbcbe4,Crude 2,crude_distillation,2317075.0,Operational
+u_0300,eed57791,Olefin 1,steam_cracker_naphtha,344730.0,Operational
+u_0301,eed57791,Olefin 2,steam_cracker_naphtha,272155.0,Operational
+u_0302,effbc0d3,Thessaloniki [GR] Terminal,port_terminal,,Active
+u_0303,f04fa134,Crude,crude_distillation,996591.0,Operational
+u_0304,f082d14f,CDU II,crude_distillation,3460763.0,Operational
+u_0305,f082d14f,CDU III,crude_distillation,3460763.0,Operational
+u_0306,f082d14f,CDU IV,crude_distillation,3460763.0,Operational
+u_0307,f082d14f,CDU VI,crude_distillation,3460763.0,Operational
+u_0308,f0c4ad73,Nynashamn [SE] Terminal,port_terminal,,Active
+u_0309,f28b1880,HES Botlek Tank Terminal (HBTT),port_terminal,,Active
+u_0310,f2e21dac,Crude (U-100),crude_distillation,10663526.0,Operational
+u_0311,f37a391f,Catcher Field [GB] Terminal,port_terminal,,Active
+u_0312,f3b6e742,Elefsis (Elevsis) [GR] Terminal,port_terminal,,Active
+u_0313,f5492885,Cadiz [ES] Terminal,port_terminal,,Active
+u_0314,f7681451,Topping 4 (T-4),crude_distillation,3089433.0,Operational
+u_0315,f7681451,Topping 5 (T-5),crude_distillation,5580911.0,Operational
+u_0316,f87e7ba6,Motril [ES] Terminal,port_terminal,,Active
+u_0317,f93b448e,Varna [BG] Terminal,port_terminal,,Active
+u_0318,f9e0138e,Antalya [TR] Terminal,port_terminal,,Active
+u_0319,fac4c032,AD 5,crude_distillation,2989774.0,Operational
+u_0320,fac4c032,AVD 6 (Crude-Vacuum Combo),crude_distillation,2740626.0,Operational
+u_0321,fae4e58f,CDU 4,crude_distillation,10962503.0,Operational
+u_0322,fb0b3578,Savona-Vado [IT] Terminal,port_terminal,,Active
+u_0323,fbd5de55,Crude,crude_distillation,10962503.0,Operational
+u_0324,fc849b55,"Kokkola, Pietarsaari V [FI] Terminal",port_terminal,,Active
+u_0325,fd662c46,CDU,crude_distillation,3388410.0,Operational
+u_0326,fd79de4d,Kotka [FI] Terminal,port_terminal,,Active
+u_0327,fe1f5479,Irving Oil Whitegate Refinery Terminal,port_terminal,,Active
+u_0328,ffc8d3be,Ethylene,steam_cracker_naphtha,199581.0,Operational
